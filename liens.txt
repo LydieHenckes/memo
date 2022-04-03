@@ -1,0 +1,23 @@
+i18n
+https://medium.com/swlh/translating-your-reactjs-application-with-i18n-js-e4e107f941e5
+
+https://react.i18next.com/
+
+https://github.com/uuidjs/uuid
+
+https://www.typescriptlang.org/docs/
+
+https://graphql.org/learn/
+
+https://www.w3schools.com/jsref/event_ondragend.asp
+
+evenements
+https://itchief.ru/javascript/browser-events
+
+git flow
+http://danielkummer.github.io/git-flow-cheatsheet/index.fr_FR.html
+
+
+
+https://itchief.ru/html-and-css/styling-text-input#basic
+https://itchief.ru/html-and-css/
