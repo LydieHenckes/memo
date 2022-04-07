@@ -135,3 +135,46 @@ ReactDOM.render(
     document.getElementById('root')
 );
 */
+//********************
+/*
+import { ShoppingBasket } from "@mui/icons-material";
+import { Drawer, List, ListItem, ListItemIcon, ListItemText } from "@mui/material";
+
+const Menu = (props) => {
+	const {menuOpen, closeMenu} = props;
+	return (
+		<div>
+			<Drawer
+				anchor = "left"
+				open = {menuOpen}
+				onClose = {closeMenu}
+			>
+				<List>
+					<ListItem>
+						<ListItemIcon>
+							<ShoppingBasket />
+						</ListItemIcon>
+						<ListItemText primary = "Menu" />
+					</ListItem>
+				</List>
+
+			</Drawer>
+			
+		</div>
+	)
+}
+
+export default Menu;
+
+function App() {
+    const [isMenuOpen, setMenuOpen] = useState(false)
+    return (
+      <div className="App">
+        <button onClick = {() =>setMenuOpen(true)} >Ouvrir</button>
+        <Menu  menuOpen = {isMenuOpen} 
+          closeMenu = {() => setMenuOpen(false)}
+        />
+      </div>
+    );
+  }
+*/  
